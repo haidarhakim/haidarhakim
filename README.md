@@ -1,9 +1,10 @@
 ### Hi there 👋
-
+Perkenalkan Nama saya Adhan Haidar Hakim 
+saya seorang mahasiswa IPB University semester 3 
+jika kamu tertarik dengan ku, silahkan ikuti akun linkedin ku [linkedin](https://www.linkedin.com/in/adhan-haidar-53639b240/) yaa
 <!--
 **haidarhakim/haidarhakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
